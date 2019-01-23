@@ -1,0 +1,10 @@
+#cardContainer {
+    display: flex;
+    flex-direction: row;
+}
+.card {
+    width: 150px;
+    height: 150px;
+    border: 1px solid maroon;
+    margin: 5px;
+}
