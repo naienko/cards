@@ -7,4 +7,11 @@
     height: 150px;
     border: 1px solid maroon;
     margin: 5px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+div.cardText {
+    flex-basis: 75%;
 }
